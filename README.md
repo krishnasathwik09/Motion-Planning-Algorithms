@@ -1,2 +1,6 @@
 # Motion-Planning-Algorithms
-Basic search (BFS, DFS, A*, Dijkstra) standard search (PRM,RRT,RRT*)and advanced motion planning algorithms(Informed RRT*, D*) are implemented and compared.
+Basic search algorithms : BFS, DFS, A*, Dijkstra
+
+Standard search - Sampling based Algorithms : PRM,RRT,RRT*
+
+Advanced motion planning algorithms : Informed RRT*, D*.
